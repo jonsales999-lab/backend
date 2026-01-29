@@ -1,0 +1,15 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.log
+
+# Environment files
+.env
+.env.*
+
+# Database files
+*.sqlite3
+*.db
