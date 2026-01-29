@@ -36,7 +36,7 @@ pillow==12.1.0
 protobuf==6.33.4
 pyarrow==23.0.0
 pydantic==2.11.0
-pydantic_core
+pydantic-core==2.33.0
 pyee==12.1.1
 PyJWT==2.10.1
 python-dateutil==2.9.0.post0
@@ -46,7 +46,7 @@ pytz==2025.1
 PyYAML==6.0.2
 referencing==0.36.2
 requests==2.32.3
-rpds-py==0.23.1
+rpds-py>=0.25.0
 six==1.17.0
 SQLAlchemy==2.0.40
 starlette==0.46.0
